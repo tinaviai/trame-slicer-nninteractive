@@ -748,4 +748,4 @@ def main(server=None, **kwargs):
 
 
 if __name__ == "__main__":
-    main()
+    main(host="0.0.0.0")
